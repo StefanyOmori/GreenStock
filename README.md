@@ -102,6 +102,11 @@ Apresenta dados do estoque.
 <img width="302" height="643" alt="Screenshot 2026-11-09 103137" src="https://github.com/user-attachments/assets/ef4a0c63-7eb3-46ad-83a4-67586264326f" />
 
 
+Detalhes: Exibe informações do produto.
+
+<img width="320" height="673" alt="Screenshot 2026-11-09 112540" src="https://github.com/user-attachments/assets/811007cc-878a-45e7-bae7-2ebe3b8fb90c" />
+
+
 <br>
 <br>
 
