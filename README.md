@@ -14,7 +14,7 @@ Stefany Miyahara Omori 558792
 Yasmin Sayuri Iechika Muniz 559011
 <br>
 **Repositório:** https://github.com/StefanyOmori/GreenStock  
-**Vídeo pitch:** 
+**Vídeo pitch:** https://docs.google.com/document/d/1a_doFWCPY4laXCC9lAQWuJVGeq4gKf5T2xl7hBin83g/edit?usp=drive_link
 
 <br>
 <br>
